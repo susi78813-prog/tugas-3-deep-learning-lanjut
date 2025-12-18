@@ -1,2 +1,2 @@
-# tugas-2-deep-learning-lanjut
+TUGAS 2 DEEP LEARNING LANJUT
 SUSI-TI KIP P4 2023-41236801
